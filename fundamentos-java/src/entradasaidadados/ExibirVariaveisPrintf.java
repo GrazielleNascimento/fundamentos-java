@@ -21,14 +21,14 @@ public static void main(String[] args) {
 		char tipo = 'A';
 		String palavra = "Generation";
 		 
-		System.out.printf("Variável quantidade = %d", quantidade);
-		System.out.printf("Variável identificador = %d", identificador);
-		System.out.printf("Variável altura = %.2f", altura);
-		System.out.printf("Variável area = %.2f", area);
-		System.out.printf("Variável tamanho = %e", tamanho);
-		System.out.printf("Variável tamanho = %E", tamanho);
-		System.out.printf("Variável tipo = %c", tipo);
-		System.out.printf("Variável palavra = %s", palavra);
+		System.out.printf("\nVariável quantidade = %d", quantidade);
+		System.out.printf("\nVariável identificador = %d", identificador);
+		System.out.printf("\nVariável altura = %.2f", altura);
+		System.out.printf("\nVariável area = %.2f", area);
+		System.out.printf("\nVariável tamanho = %e", tamanho);
+		System.out.printf("\nVariável tamanho = %E", tamanho);
+		System.out.printf("\nVariável tipo = %c", tipo);
+		System.out.printf("\nVariável palavra = %s", palavra);
  
    //Variável quantidade = 1000Variável altura = 25,40Variável area = 45,46Variável tamanho = 6,500000e+08Variável tamanho = 6,500000E+08Variável tipo = AVariável palavra = GenerationCONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
                 
