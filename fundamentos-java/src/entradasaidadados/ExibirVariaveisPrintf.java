@@ -29,7 +29,17 @@ public static void main(String[] args) {
 		System.out.printf("Variável tamanho = %E", tamanho);
 		System.out.printf("Variável tipo = %c", tipo);
 		System.out.printf("Variável palavra = %s", palavra);
-
+ 
+   //Variável quantidade = 1000Variável altura = 25,40Variável area = 45,46Variável tamanho = 6,500000e+08Variável tamanho = 6,500000E+08Variável tipo = AVariável palavra = GenerationCONSTRUÍDO COM SUCESSO (tempo total: 0 segundos)
+                
+             /*
+            %c	Caractere simples (char)
+            %s	Cadeia de caracteres (String)
+            %d	Inteiro (int ou long)
+            %f	Real com ponto flutuante (float ou double)
+            %.2f	Real com ponto flutuante (float ou double), delimitando o número de dígitos que serão exibidos nas casas decimais.
+            No exemplo ao lado, serão exibidos 2 dígitos depois do ponto (separador de casas decimais).
+               */         
 	}
 
 }
