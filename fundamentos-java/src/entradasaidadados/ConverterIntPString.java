@@ -2,14 +2,16 @@ package entradasaidadados;
 
 /**
  *
- * @author blossom
+ * @author Grazi
  */
-public class Tipos {
+public class ConverterIntPString {
 
     public static void main(String[] args) {
-        String valor = "30";
-        int idade = Integer.parseInt(valor);
-        System.out.println(idade);
+        
+        int idade = 30;
+        
+        String valor = Integer.toString(idade);
+        System.out.println(valor);
     }
 
 }
